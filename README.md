@@ -1,8 +1,7 @@
 # CCGC 5502 Terraform Project
 
-**Student Name:       **Voke Akatugba  
-**Resource prefix:    **7944  
-**Deployment region:  **East US 2
+#Student Name:          Voke Akatugba  
+#Student Number:        N10037944
 
 ## Overview
 
@@ -137,4 +136,3 @@ After evaluation, remove the project infrastructure to stop ongoing charges:
 terraform plan -destroy
 terraform destroy --auto-approve
 ```
-
