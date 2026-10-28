@@ -1,0 +1,30 @@
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Variable files that may contain credentials
+*.tfvars
+*.tfvars.json
+
+# Saved execution plans
+*.tfplan
+tfplan
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Local environment variables
+.env
+.env.*
+
+# Private keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# macOS files
+.DS_Store
